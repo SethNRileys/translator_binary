@@ -57,9 +57,17 @@
 		26EC6DBA2B47A74A008E17A8 /* translator_binary */ = {
 			isa = PBXGroup;
 			children = (
-				26EC6DBB2B47A74A008E17A8 /* main.cpp */,
+				26EC6DC22B47A7B5008E17A8 /* source */,
 			);
 			path = translator_binary;
+			sourceTree = "<group>";
+		};
+		26EC6DC22B47A7B5008E17A8 /* source */ = {
+			isa = PBXGroup;
+			children = (
+				26EC6DBB2B47A74A008E17A8 /* main.cpp */,
+			);
+			path = source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
